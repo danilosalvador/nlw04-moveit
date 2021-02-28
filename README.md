@@ -17,6 +17,8 @@ O Move.it foi desenvolvido durante o evento NLW#04 (Next Level Week 4) da [@Rock
 
 <img src="./moveit.gif">
 
+
+
 ### 📝 Tecnologias utilizadas
 
 Foram utilizadas as seguintes tecnologias:
@@ -28,7 +30,7 @@ Foram utilizadas as seguintes tecnologias:
 
 
 
-### ✨ Acesso do Projeto:
+### ✨ Acesso do Projeto
 
 O projeto foi hospedado na [Vercel](https://vercel.com/) e poderá ser acessado [por aqui](https://moveit.danilosalvador.vercel.app). 
 
@@ -43,16 +45,16 @@ O protótipo utilizado foi desenvolvido pela **Rocketseat** e podera ser acessad
 ### 🚀 Como Executar o Projeto
 
 ```bash
-# Clonar o repositório:
+# Clonar o repositório
 git clone https://github.com/danilosalvador/nlw04-moveit.git
 
-# Entrar no diretório:
+# Entrar no diretório
 cd nlw04-moveit
 
-# Baixar as dependências:
+# Baixar as dependências
 `npm install` ou `yarn install`
 
-# Executar o servidor:
+# Executar
 `npm run dev` ou `yarn dev`
 
 ```
