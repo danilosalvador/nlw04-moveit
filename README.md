@@ -62,7 +62,7 @@ Acesse  `http://localhost:3000/` em seu navegador.
 
 ### 🤖 Próximos passos
 
-Os próximos passos para a evolução do projeto será seguir o prótipo 2.0 desenvolvido pela Rocketseat (que pode ser acesso [por aqui](https://www.figma.com/file/3SLOKw2hSaZY517eTtZEn2/Move.it-2.0)), incluindo as funcionalidades de autenticação e ranking. 
+Os próximos passos para a evolução do projeto será seguir o prótipo 2.0 desenvolvido pela Rocketseat (que pode ser acessado [por aqui](https://www.figma.com/file/3SLOKw2hSaZY517eTtZEn2/Move.it-2.0)), incluindo as funcionalidades de autenticação e ranking. 
 
 
 
