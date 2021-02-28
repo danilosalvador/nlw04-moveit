@@ -15,7 +15,7 @@
 
 O Move.it foi desenvolvido durante o evento NLW#04 (Next Level Week 4) da [@Rocketseat](https://github.com/Rocketseat) utilizando NextJS na Trilha de ReactJS em 22 até 28 de fevereiro de 2021.
 
-
+<img src="./moveit.gif">
 
 ### 📝 Tecnologias utilizadas
 
