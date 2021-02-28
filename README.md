@@ -30,7 +30,7 @@ Foram utilizadas as seguintes tecnologias:
 
 ### ✨ Acesso do Projeto:
 
-O projeto foi hospedado na [Vercel](https://vercel.com/) e poderá ser acessado [por aqui](moveit.danilosalvador.vercel.app/). 
+O projeto foi hospedado na [Vercel](https://vercel.com/) e poderá ser acessado [por aqui](https://moveit.danilosalvador.vercel.app). 
 
 
 
